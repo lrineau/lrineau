@@ -1,4 +1,8 @@
-### Hi there 👋
+## Laurent Rineau
+
+[![Laurent Rineau's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrineau&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+Developer and Release Manager of the [CGAL](https://github.com/CGAL/cgal) project, employed by [GeometryFactory](https://geometryfactory.com/).
 
 <!--
 **lrineau/lrineau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
