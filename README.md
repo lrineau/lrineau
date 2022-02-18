@@ -1,6 +1,8 @@
 ## Laurent Rineau
 
-[![Laurent Rineau's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrineau&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lrineau&hide=stars&show_icons=true">
+</p>
 
 Developer and Release Manager of the [CGAL](https://github.com/CGAL/cgal) project, employed by [GeometryFactory](https://geometryfactory.com/).
 
