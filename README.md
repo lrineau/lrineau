@@ -1,9 +1,5 @@
 ## Laurent Rineau
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lrineau&hide=stars&show_icons=true">
-</p>
-
 Developer and Release Manager of the [CGAL](https://github.com/CGAL/cgal) project, employed by [GeometryFactory](https://geometryfactory.com/).
 
 <!--
@@ -20,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Github stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lrineau&theme=default) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lrineau&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lrineau&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lrineau&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lrineau&theme=default&utcOffset=8) 
